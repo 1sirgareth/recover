@@ -1,4 +1,4 @@
-# dev-inductions
+# recover
 
 This is a c program to recover accidentally deleted files from the memory card of a camera. 
 [This was part of a problem set in a course I did ](https://cs50.harvard.edu/x/psets/4/recover/)
